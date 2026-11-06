@@ -1,0 +1,11 @@
+# Raw Windows event logs
+*.evtx
+
+# Raw Linux authentication logs
+linux-ssh-authentication.log
+
+# macOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
